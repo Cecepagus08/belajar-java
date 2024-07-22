@@ -3,6 +3,8 @@ import java.util.Scanner;
 public class hitungLuas {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
+        System.out.println("PROGRAM JAVA HITUNG LUAS TRAPESIUM")
+        System.out.println("==================================")
 
         System.out.print("Masukkan alas segitiga: ");
         double alas = input.nextDouble();
